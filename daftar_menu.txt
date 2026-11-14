@@ -1,0 +1,4 @@
+MAKANAN;nasi goreng;15000.0;Utama;Goreng
+MINUMAN;es teh;5000.0;Dingin;Teh
+DISKON;akhir bulan;0.02
+MAKANAN;nasi pecel;10000.0;Utama;Goreng
